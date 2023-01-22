@@ -1,9 +1,6 @@
----
----
 <img src="/med2019_modules.png" class="rounded shadow" />
 <arrow  x1="400" y1="300" x2="150" y2="250" color="red" width="4" />
 
----
 ---
 
 # Überblick (1/2)
@@ -20,7 +17,6 @@
   - Eigene UI-Komponente entwickeln
   - Probeprüfung absolvieren
 
----
 ---
 
 # Überblick (2/2)
@@ -39,7 +35,6 @@
   - Leistungsbeurteilung B
 
 ---
----
 
 # Leistungsbeurteilung
 
@@ -55,3 +50,21 @@
   - Lücken im Quellcode müssen nach Vorgabe gefüllt werden
   - Open Book
   - Am Schluss des Kurses
+
+---
+
+# Unterlagen
+
+<img src="/content_lms.png" class="rounded shadow h-full float-right" />
+
+ - https://moodle.zli.ch
+ - Verschiedene Informationsseiten beachten
+ - Quellcodevorlagen für die Aufträge herunterladen
+
+---
+
+# Editor
+
+Für diesen Kurs empfehlen wir den Editor <q>Visual Studio Code</q>. Dieser Editor ist kostenlos für viele Betriebssysteme verfügbar.
+
+<img src="/vscode.png" class="rounded shadow h-80 mx-auto" />
